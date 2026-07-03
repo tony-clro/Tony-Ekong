@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Tony-Ekong
+- 👋 Hi, I’m Anthony Ekong
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning Front-end web development
+- 🌱 I’m learning python/fastAPI
 - 💞️ I’m looking to collaborate on github
-- 📫 How to reach me on gmail: anthonyekong387@gmail.com
+- 📫 How to reach me on gmail: anthonyekong37@gmail.com
 - or contact me: 09018607522
 
 <!---
